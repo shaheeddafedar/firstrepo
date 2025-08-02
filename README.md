@@ -1,4 +1,4 @@
 # firstrepo
 this is my first  Git repository
 <br>
-author : shaheed dafedar 
+This is my final version of README after resolving
