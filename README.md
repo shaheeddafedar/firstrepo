@@ -1,4 +1,4 @@
 # firstrepo
 this is my first  Git repository
 <br>
-author : shaheed dafedar (student)
+author : shaheed dafedar 
